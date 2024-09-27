@@ -6,7 +6,9 @@ composer install --ignore-platform-req=ext-pcntl --ignore-platform-req=ext-posix
 php artisan serve
 ```
 Navigate: [http://localhost:8000/app/](http://localhost:8000/app/)
+
 Username: admin@example.com
+
 Password: admin
 
 Steps to reproduce:
